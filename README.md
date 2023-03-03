@@ -1,7 +1,9 @@
 # My First Android Application (Programiranje za Mobilni Platformi)
 
 This is my First Android Application
-https://user-images.githubusercontent.com/73443705/222717534-e6b4fd95-34f4-4072-a1a5-6a670176c1fb.mp4https://user-images.githubusercontent.com/73443705/222717534-e6b4fd95-34f4-4072-a1a5-6a670176c1fb.mp4
+
+
+https://user-images.githubusercontent.com/73443705/222717954-333ec9b8-976d-4310-ac27-852fd394889b.mp4
 
 ![1](https://user-images.githubusercontent.com/73443705/222716677-f1dedefa-5ac3-4024-9f62-d82dec2dd721.jpg)
 
